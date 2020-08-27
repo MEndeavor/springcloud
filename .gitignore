@@ -1,0 +1,5 @@
+# Project exclude paths
+/zr-comsumer/target/
+/zr-eureka/target/
+/zr-provider/target/
+/zr-zuul/target/
